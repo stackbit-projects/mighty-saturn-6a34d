@@ -15,7 +15,7 @@ sections:
         new_window: false
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: tiles
+    layout_style: mosaic
     title: Recent Work
     subtitle: An optional subtitle of the section
     projects_number: 6
