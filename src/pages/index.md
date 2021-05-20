@@ -35,7 +35,6 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/WhatsApp Image 2020-10-19 at 12.53.26.jpeg
     type: section_grid
 seo:
   title: Stackbit Exto Theme
