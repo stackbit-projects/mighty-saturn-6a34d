@@ -1,6 +1,5 @@
 ---
 title: Project Title 1
-subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/6_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
