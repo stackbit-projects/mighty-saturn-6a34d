@@ -31,7 +31,7 @@ sections:
         actions: []
         type: grid_item
         image: images/12_thumb.jpg
-      - title: lorem-ipsum
+      - title: photographer
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
