@@ -35,6 +35,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
+        image: images/VertiCrop.jpg
     type: section_grid
 seo:
   title: Stackbit Exto Theme
