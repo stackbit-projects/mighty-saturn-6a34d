@@ -2,7 +2,7 @@
     "color_scheme": "light",
     "accent_color": "blue",
     "header": {
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
