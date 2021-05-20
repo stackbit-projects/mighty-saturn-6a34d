@@ -33,14 +33,7 @@ sections:
         image: images/12_thumb.jpg
       - title: photographer
         image_alt: lorem-ipsum
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
         image: images/WhatsApp Image 2020-10-19 at 12.53.26.jpeg
     type: section_grid
